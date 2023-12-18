@@ -19,7 +19,7 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
-dependencies = ["SimpleITK","scipy","pygrappa @ git+https://github.com:abhishekpandey127/pygrappa.git","cloudmrhub @ git+https://github.com/cloudmrhub-com/cloudmrhub.git","raider_eros_montin @ git+https://github.com/erosmontin/raider.git","pynico_eros_montin @ git+https://github.com/erosmontin/pynico.git","pyable_eros_montin @ git+https://github.com/erosmontin/pyable.git"]
+dependencies = ["SimpleITK","scipy","cloudmrhub @ git+https://github.com/cloudmrhub-com/cloudmrhub.git","raider_eros_montin @ git+https://github.com/erosmontin/raider.git","pynico_eros_montin @ git+https://github.com/erosmontin/pynico.git","pyable_eros_montin @ git+https://github.com/erosmontin/pyable.git"]
 
 [project.urls]
 "Homepage" = "https://github.com/cloudmrhub-com/TESSCU"
